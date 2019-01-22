@@ -1,6 +1,6 @@
 #coding:utf-8
 
-#面部识别
+#图片的面部识别
 
 import numpy as np
 import cv2
